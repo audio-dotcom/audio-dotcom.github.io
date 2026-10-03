@@ -1,0 +1,8 @@
+[{
+      "relation": ["delegate_permission/common.handle_all_urls"],
+      "target": {
+        "namespace": "android_app",
+        "package_name": "io.github.audio_dotcom.twa",
+        "sha256_cert_fingerprints": ["CC:EB:44:BA:17:08:8C:EF:52:65:A9:65:08:B5:AC:21:0A:5B:8C:CA:1D:76:A5:9B:FC:42:D6:FB:D9:CF:2E:1B"]
+      }
+    }]
